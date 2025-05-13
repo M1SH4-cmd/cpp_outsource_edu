@@ -1,0 +1,3 @@
+C:/Users/6el0z/OneDrive/Desktop/out_source_cpp_education/Allocators/cmake-build-debug/CMakeFiles/Allocators.dir
+C:/Users/6el0z/OneDrive/Desktop/out_source_cpp_education/Allocators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/6el0z/OneDrive/Desktop/out_source_cpp_education/Allocators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
